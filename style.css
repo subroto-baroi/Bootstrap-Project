@@ -21,3 +21,31 @@
    cursor: pointer;
 
 }
+.cat1{
+    background-color: #FC992A;
+ 
+
+}
+.cat2{
+    background-color: #FF377F;
+    ;
+}
+.cat3{
+    background-color: #2A46FF;
+    
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 12px;
+}
+.cetagories h1{
+    color: #fff;
+}
+.cetagories img{
+    width: 100px;
+    margin-left: 60px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightcyan;
+}
