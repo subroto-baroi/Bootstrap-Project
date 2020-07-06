@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 90px;
 }
 
 .orange-bg{
@@ -47,5 +47,15 @@
 }
 .card{
     border: none;
-    box-shadow: 5px 5px 10px lightcyan;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    border-radius: 8px;
+}
+#subscribe{
+    height: 300px;
+} 
+#subscribe p{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
